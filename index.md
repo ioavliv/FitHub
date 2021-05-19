@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+![Image](src)
+## About
 
-You can use the [editor on GitHub](https://github.com/ioavliv/FitHub/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  The COVID-19 pandemic has brought upon restrictions, such as social distancing, stay-at-home orders, and the closure of gyms. These public health measures are necessary to prevent the spread of coronavirus, but have had unintentional negative consequences on people’s health. The sudden loss of workout options, change to daily routines, self-isolation, and other factors caused by the pandemic has led to a decline in physical activity. In addition, due to people not being able to socialize and work out together, they may have lost motivation.  COVID-19 has changed the way people interact with each other, and it will exist for the foreseeable future. Moving these once daily social activities to an online platform could bring motivation back to users while maintaining the health of the people. Therefore, we thought it would be a good idea to create a social fitness app to help people stay active during the pandemic. 
+  
+	The objective of our project is to develop an Android-based social fitness application called FitHub. The main goals of this application are to increase people’s fitness engagement and help them connect with others productively while stuck at home. Our application allows users to create challenges, upload a picture as proof of completion, and challenge others to do the same. Users can motivate each other and hold each other accountable. They will also be able to compare with others how many challenges they have completed to inspire friendly competition. This is needed especially during the ongoing pandemic where we are encouraged to stay home.  Our app can be a fun fitness solution to fight against the negative effects of COVID-19.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Team members
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Ioav Livneh 1211578,
+- Michael Brown 1144976,
+- Dibakar Banik 1234495,
+- Adem Kolenovic 1275765,
+- Sakshi Chetan Rambhia 1257306,
+- Lydia Yu 1217621
 
-```markdown
-Syntax highlighted code block
+### Google Drive
 
-# Header 1
-## Header 2
-### Header 3
+This google drive contains all project information including all bi-weeekly reports, the final report, demo video, and presentation slides.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ioavliv/FitHub/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Senior Project Drive](https://docs.google.com/document/d/1ro2EDc9nYMROwbXVCrQlAHcu5fQxUPnVOa9vWDLVKhU/edit?usp=sharing)
